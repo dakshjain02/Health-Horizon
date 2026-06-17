@@ -1,68 +1,144 @@
-# Health Horizon 🏥
+# 🏥 Health Horizon
 
-Health Horizon is a Hospital Management System designed to streamline healthcare services and patient management.
+Health Horizon is a full-stack Hospital Management System designed to simplify healthcare operations by providing efficient patient management, appointment scheduling, doctor administration, and healthcare service coordination through a centralized platform.
 
-## Features
+---
 
-- Patient Registration
-- Appointment Booking
-- Doctor Management
-- Treatment Information
-- Authentication System
-- Responsive User Interface
-- Healthcare Service Management
+## 🚀 Key Features
 
-## Tech Stack
+### 👤 Patient Management
+
+* Patient Registration System
+* Patient Information Management
+* Medical Record Tracking
+
+### 📅 Appointment Scheduling
+
+* Book Appointments Online
+* Manage Appointment Requests
+* Doctor Availability Management
+
+### 👨‍⚕️ Doctor Management
+
+* Doctor Profiles
+* Department Management
+* Doctor Information Tracking
+
+### 🔐 Secure Authentication
+
+* User Login & Registration
+* Session Management
+* Secure Access Control
+
+### 🏥 Healthcare Services
+
+* Treatment Information Management
+* Service Catalog
+* Healthcare Workflow Support
+
+### 🎨 Responsive User Interface
+
+* Clean and User-Friendly Design
+* Mobile Responsive Layout
+* Easy Navigation Experience
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
+
+* HTML5
+* CSS3
+* JavaScript
+* EJS
 
 ### Backend
-- Node.js
-- Express.js
-- EJS
+
+* Node.js
+* Express.js
 
 ### Database
-- MongoDB
 
-## Installation
+* MongoDB
 
-1. Clone the repository
+### Development Tools
 
-git clone https://github.com/Dakshjainpiet/Health-Horizon.git
+* Git
+* GitHub
+* VS Code
 
-2. Install dependencies
+---
 
-cd backend
-npm install
+## 📂 Project Structure
 
-3. Start the server
-
-npm start
-
-4. Open the application in your browser.
-
-## Project Structure
-
+```text
 Health-Horizon/
+│
 ├── Home/
+│
 ├── backend/
-│ ├── model/
-│ ├── public/
-│ ├── views/
-│ ├── index.js
-│ └── package.json
+│   ├── model/
+│   ├── public/
+│   ├── views/
+│   ├── index.js
+│   └── package.json
+│
+├── README.md
+└── .gitignore
+```
 
-## Future Enhancements
+---
 
-- Online Payments
-- Medical Reports Upload
-- Doctor Dashboard
-- Admin Panel
-- Real-time Notifications
+## ⚙️ Installation & Setup
 
-## Author
+### 1️⃣ Clone the Repository
 
-Daksh Jain
+```bash
+git clone https://github.com/Dakshjainpiet/Health-Horizon.git
+```
+
+---
+
+## 📊 Project Highlights
+
+✔ Hospital Management System
+
+✔ Appointment Scheduling Platform
+
+✔ Patient Record Management
+
+✔ Doctor Administration Module
+
+✔ Secure Authentication System
+
+✔ Responsive Web Interface
+
+✔ MongoDB Database Integration
+
+---
+
+## 🔮 Future Enhancements
+
+* Online Payment Integration
+* Medical Reports Upload & Download
+* Doctor Dashboard
+* Admin Management Panel
+* Real-Time Notifications
+* Prescription Management
+* Email & SMS Alerts
+* Analytics Dashboard
+
+---
+
+
+---
+
+## 👨‍💻 Author
+
+**Daksh Jain**
+
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
