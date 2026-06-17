@@ -95,7 +95,31 @@ Health-Horizon/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Dakshjainpiet/Health-Horizon.git
+git clone https://github.com/dakshjain02/Health-Horizon.git
+```
+
+### 2️⃣ Navigate to Backend Directory
+
+```bash
+cd Health-Horizon/backend
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Start the Application
+
+```bash
+npm start
+```
+
+### 5️⃣ Open in Browser
+
+```text
+http://localhost:3000
 ```
 
 ---
@@ -131,12 +155,18 @@ git clone https://github.com/Dakshjainpiet/Health-Horizon.git
 
 ---
 
-
 ---
 
 ## 👨‍💻 Author
 
 **Daksh Jain**
 
+B.Tech – Artificial Intelligence & Data Science
+
+Python | Machine Learning | Full Stack Development | Data Analytics
+
+📧 Open to collaboration and internship opportunities.
 
 ---
+
+⭐ If you found this project useful, consider giving it a star.
